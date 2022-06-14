@@ -1,0 +1,18 @@
+.inputField {
+  border: 0px;
+  outline: none;
+  border-bottom: 1px solid black;
+}
+
+.inputs {
+  display: flex;
+  margin: 10px;
+}
+
+.increaseWidth {
+  width: 450px;
+}
+
+.table-8 {
+  border-collapse: collapse;
+}

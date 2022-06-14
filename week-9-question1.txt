@@ -1,0 +1,174 @@
+1)Fix the bugs in below snippet
+    <html lang="en">
+    <head>
+        <title>Document
+            <body>
+                guvi
+        </title>
+    </head>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+Answer:
+<html lang="en">
+  <head>
+    <title>Document guvi</title>
+  </head>
+  <body>
+    <div>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      <div>
+        <div>Guvi Geek Network</div>
+      </div>
+    </div>
+  </body>
+</html>
+
+2)Try the below one
+<html lang="en">
+    <head>
+        <title>Document
+            <body>
+                guvi
+    </head>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+
+Answer:
+
+<html lang="en">
+  <head>
+    <title>Document guvi</title>
+  </head>
+  <body>
+    <div>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      <div>
+        <div>Guvi Geek Network</div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+4)Use certain HTML elements to display the following in a HTML page.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Document guvi</title>
+  </head>
+  <body>
+    <ul>
+      <li>Programming Language</li>
+      <ul>
+        <li>JavaScript</li>
+        <ol>
+          <li>Angular</li>
+          <li>React</li>
+          <li>Vue.js</li>
+        </ol>
+        <li>Python</li>
+        <ol>
+          <li>Django Framework</li>
+          <li>Flask Framework</li>
+        </ol>
+        <li>Java</li>
+        <ol>
+          <li>Spring</li>
+          <li>Maven</li>
+          <li>Hibernate</li>
+        </ol>
+      </ul>
+      <li>Database</li>
+      <ul>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+        <li>Cansandra</li>
+      </ul>
+    </ul>
+  </body>
+</html>
+
+5)Create an element that helps you to open the https://google.com in separate new tab.
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Document guvi</title>
+  </head>
+  <body>
+    <a href="https://google.com/" target="_blank">Click here </a> to open google
+  </body>
+</html>
+
+
+8)Use the table tag to design given image Click here.
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Document guvi</title>
+  </head>
+  <body>
+    <table border="5px" cellpadding="20">
+      <tr>
+        <td rowspan="2">State of Health</td>
+        <td colspan="2">Fasting values</td>
+        <td>After Eating</td>
+      </tr>
+      <tr>
+        <td>Minimum</td>
+        <td>Maximum</td>
+        <td>2 hours after eating</td>
+      </tr>
+      <tr>
+        <td>Healthy</td>
+        <td>70</td>
+        <td>100</td>
+        <td>Less than 140</td>
+      </tr>
+      <tr>
+        <td>Pre-Diabetes</td>
+        <td>101</td>
+        <td>126</td>
+        <td>140 to 200</td>
+      </tr>
+      <tr>
+        <td>Diabetes</td>
+        <td>More than 126</td>
+        <td>N/A</td>
+        <td>More than 200</td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+
+
+
+10)In your, HTML page add the below line and Highlight it without using any CSS.
+"HTML & CSS is awesome"
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Document guvi</title>
+  </head>
+  <body>
+    <p><mark>HTML & CSS is awesome</mark></p>
+  </body>
+</html>
+
+
